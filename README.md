@@ -84,11 +84,14 @@ $E = mc^2$
 $$
 \sum_{i=1}^{n} x_i = x_1 + x_2 + ... + x_n
 $$
-<img width="320" height="320" alt="brainct_001" src="https://github.com/user-attachments/assets/788f93a2-1754-43b6-b8d5-93bb7b787216" />
 
 
 # DO-178C 문서화 패키지
 ## BMP 이미지 그레이스케일 변환 소프트웨어
+
+<img width="320" height="320" alt="brainct_001" src="https://github.com/user-attachments/assets/cd3fc272-a0ea-4ddb-bdec-adac1c0f0959" />
+
+
 -문서 ID: BMP-DO178C-001
 -버전: 1.0
 -날짜: 2025년 8월 28일
